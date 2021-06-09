@@ -1,0 +1,27 @@
+{
+  "name": "full-stack-open-2021-part-3",
+  "version": "0.0.1",
+  "description": "Persons API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eepa/full-stack-open-2021-part-3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eepa/full-stack-open-2021-part-3/issues"
+  },
+  "homepage": "https://github.com/Eepa/full-stack-open-2021-part-3#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
